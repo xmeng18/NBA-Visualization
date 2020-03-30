@@ -1,6 +1,5 @@
 
-
-
+![image](https://github.com/xmeng18/NBA-Visualization/blob/master/demo.gif)
 
 Created a dashboard using React, D3 and Ant Design backed by data crawled from stats.nba.com 
 
